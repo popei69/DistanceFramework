@@ -1,0 +1,6 @@
+framework module DistanceFramework {
+  umbrella header "DistanceFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DistanceFramework",
+  "version": "0.1.0",
+  "summary": "A short description of DistanceFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/popei69/DistanceFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "popei69": "b.pasquier69@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/popei69/DistanceFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DistanceFramework/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DistanceFramework_Example' do
+  pod 'DistanceFramework', :path => '../'
+
+  target 'DistanceFramework_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
